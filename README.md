@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **Java, Git** etc, I'll be happy to help.
 
-- 🌱 I’m currently learning **Data Structures and algorithms, python**
+- 🌱 I’m currently learning **Python**
 
 - ⚡ Earned Silver badge & 4 star at HackerRank in Java programming.
 
