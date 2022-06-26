@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muhammadali493&theme=juicyfresh" alt="muhammadali493" /></a> </p>
 
-- 💬 Ask me about **Java, Git** etc, I'll be happy to help.
+- 💬 Ask me about **Git, Github, Java, Java libraries Jsoup, OpenCSV, Jfreechart** etc, I'll be happy to help.
 
 - 🌱 I’m currently learning **Python**
 
