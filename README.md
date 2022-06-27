@@ -57,4 +57,4 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadali493&theme=tokyonight" alt="muhammadali493" /></p>
 
 
-<h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
+<h3 align="center">Show some &nbsp;❤️&nbsp; by following & starring some of the repositories!</h3>
