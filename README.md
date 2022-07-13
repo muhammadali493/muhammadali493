@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I am  Muhammad Ali</a></h1>
-<h2 align="center">A passionate Java developer from Pakistan </h2>
+<h2 align="center">A passionate Java enthusiast from Pakistan </h2>
 <h3 align="center">Java Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammadali493&label=Profile%20views&color=0e75b6&style=flat" alt="muhammadali493" /> </p>
