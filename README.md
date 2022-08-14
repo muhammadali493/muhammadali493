@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **Git, Github, Java, Java libraries Jsoup, OpenCSV, Jfreechart** etc, I'll be happy to help.
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Android development**
 
 - ⚡ Earned Silver badge & 4 star at HackerRank in Java programming.
 
