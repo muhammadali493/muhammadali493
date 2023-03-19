@@ -1,12 +1,12 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I am  Muhammad Ali</a></h1>
 <h2 align="center">A passionate Java enthusiast from Pakistan </h2>
-<h3 align="center">Java Developer</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammadali493&label=Profile%20views&color=0e75b6&style=flat" alt="muhammadali493" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muhammadali493&theme=juicyfresh" alt="muhammadali493" /></a> </p>
 
-- 💬 Ask me about **Git, Github, Java, Java libraries Jsoup, OpenCSV, Jfreechart** etc, I'll be happy to help.
+- 💬 Ask me about **Git, Github, Java, MySQL** etc, I'll be happy to help.
 
 - 🌱 I’m currently learning **Android development**
 
