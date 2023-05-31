@@ -6,11 +6,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muhammadali493&theme=juicyfresh" alt="muhammadali493" /></a> </p>
 
-- 💬 Ask me about **Git, Github, Java, MySQL** etc, I'll be happy to help.
+- 💬 Ask me about **Git, Github, Java, Kotlin MySQL** etc, I'll be happy to help.
 
-- 🌱 I’m currently learning **Android development**
+- 🌱 I’m currently learning **Android development using Jetpack Compose**
 
-- ⚡ Earned Silver badge & 4 star at HackerRank in Java programming.
+- ⚡ Earned Silver badge & 5 star at HackerRank in Java programming.
 
 - 🔭 Passionate for learning & exploring new Tech.
 
